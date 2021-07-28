@@ -1,0 +1,15 @@
+[core]
+restore_state = true
+
+[mpd]
+enabled = true
+hostname = 127.0.0.1
+port = 6600
+
+[spotify]
+enabled = true
+username = 1111173221
+password = 9c0352573E!123
+client_id = c57f7efa-839f-498f-9522-8a0ff1f1dad3
+client_secret = 1YyE9tSHzigqMavqvXqlvEQknDyFDx1XEIf0tUeHhfs=
+bitrate = 320
